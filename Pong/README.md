@@ -1,5 +1,5 @@
 # PONG
-Pong game made by me in python
+Pong game made by me in python. Nearest Neighbor algorithm is used for AI simulation as machine learning
 
 # INSTALATION
 $pip install -r requirements
